@@ -1,0 +1,108 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: var(--sidebar-width);
+  height: 100vh;
+  background: var(--color-white);
+  border-right: 1.5px solid var(--color-rose);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0;
+  z-index: 900;
+  transition: var(--transition);
+}
+
+.sidebar-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  border: 3px solid var(--color-accent);
+}
+
+.sidebar-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sidebar ul {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 0 1rem;
+}
+
+.sidebar ul li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  border-radius: var(--border-radius);
+  color: var(--color-dark);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.sidebar ul li a:hover {
+  background: var(--color-cream);
+  color: var(--color-accent);
+}
+
+.sidebar ul li.active a {
+  background: var(--color-accent);
+  color: var(--color-white);
+}
+
+.sidebar ul li a svg {
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.hamburger {
+  display: none;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1100;
+  background: var(--color-white);
+  border: 1.5px solid var(--color-accent);
+  color: var(--color-accent);
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    transform: translateX(-100%);
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  section {
+    margin-left: 0;
+    padding: 80px 24px;
+  }
+}

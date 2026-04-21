@@ -1,0 +1,31 @@
+.App {
+  display: block;
+  min-height: 100vh;
+  background-color: var(--color-cream);
+  transition: var(--transition);
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: var(--color-white);
+  border: 1.5px solid var(--color-accent);
+  color: var(--color-accent);
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+  box-shadow: 0 2px 8px rgba(79, 0, 11, 0.15);
+}
+
+.theme-toggle:hover {
+  background: var(--color-accent);
+  color: var(--color-cream);
+}

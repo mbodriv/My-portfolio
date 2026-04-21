@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My First Website",
+    "description": "My very first HTML & CSS website.",
+    "tags": ["HTML", "CSS"],
+    "github": "https://github.com/mbodriv/My_first_website",
+    "live": "https://mbodriv.github.io/My_first_website/",
+    "image": "/First-website.png"
+  },
+  {
+    "title": "Mentor Me Fundraiser",
+    "description": "A mentoring platform where mentors create fundraisers and publish available time slots, and mentees can browse and book sessions.",
+    "tags": ["React", "Django REST Framework", "Python", "Netlify"],
+    "github": "https://github.com/mbodriv/crowdfunding_front_end",
+    "live": "https://mentormefundraiser.netlify.app",
+    "image": "/Fundraiser.png"
+  },
+  {
+    "title": "Open Book",
+    "description": "An all-in-one platform that simplifies the book club experience — organise clubs, discover communities, schedule meetings and track reading in one place.",
+    "tags": ["React", "Django REST Framework", "Python", "Netlify"],
+    "github": "https://github.com/SheCodesAus/debug-a-lotl-frontend",
+    "live": "https://openbookapp.netlify.app",
+    "image": "/Openbook.png"
+  }
+]

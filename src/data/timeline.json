@@ -1,0 +1,69 @@
+[
+  {
+    "type": "Education",
+    "logo": "/logos/shecodes.png",
+    "title": "SheCodes",
+    "subtitle": "Full Stack Development Program",
+    "description": "Full stack web development covering React.js, JavaScript, Python, Django REST Framework, HTML, CSS and Git.",
+    "start": "Sep, 2025",
+    "end": "Apr, 2026",
+    "id": "shecodes"
+  },
+  {
+    "type": "Work",
+    "logo": "/logos/autoandgeneral.jpeg",
+    "title": "Auto & General",
+    "subtitle": "FP&A Analyst",
+    "description": "Delivering annual business planning, monthly forecasting and financial analysis. Providing performance reporting and insights to senior management and stakeholders.",
+    "start": "Mar, 2025",
+    "end": "Present",
+    "id": "auto-general"
+  },
+  {
+    "type": "Work",
+    "logo": "/logos/flightcentre.png",
+    "title": "Flight Centre Travel Group",
+    "subtitle": "Senior Accountant / Management Accountant",
+    "description": "Managed FX exposures, established a new business unit, automated financial reporting using SQL and Power Query, and standardised forecasting processes reducing variances by 30%.",
+    "start": "Jul, 2023",
+    "end": "Mar, 2025"
+  },
+  {
+    "type": "Work",
+    "logo": "/logos/resultslegal.png",
+    "title": "Results Legal Ltd",
+    "subtitle": "Accountant",
+    "description": "Streamlined accounting processes reducing manual effort, implemented automated accounts receivable system reducing invoice processing time by 75%, and supervised the Accounting Assistant.",
+    "start": "Oct, 2021",
+    "end": "Jul, 2023"
+  },
+  {
+    "type": "Work",
+    "logo": "logos/Antaria.jpeg",
+    "title": "Antaria",
+    "subtitle": "Accounts Officer",
+    "description": "Managed international payments minimising FX exposure, reduced overdue invoices by 40%, and developed an AP forecasting model improving cashflow visibility.",
+    "start": "Jul, 2021",
+    "end": "Oct, 2021"
+  },
+  {
+    "type": "Education",
+    "logo": "logos/universitat.png",
+    "title": "University of Barcelona",
+    "subtitle": "Bachelor of Business Administration — Finance & Accounting",
+    "description": "",
+    "start": "Sep, 2013",
+    "end": "Jun, 2017",
+    "id": "uba"
+  },
+  {
+    "type": "Education",
+    "logo": "/logos/universitat.png",
+    "title": "University of Barcelona",
+    "subtitle": "Masters of Strategic Communication",
+    "description": "Stakeholder Engagement, Coaching, and Leadership.",
+    "start": "Sep, 2017",
+    "end": "Jun, 2018",
+    "id": "masters"
+  }
+]

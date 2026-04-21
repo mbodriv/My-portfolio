@@ -1,0 +1,39 @@
+    {
+        "Skills":[
+            {"name": "Full-Stack Development", "icon": "💻"},
+            {"name": "Process Development and Automation", "icon":"⚙️"},
+            {"name": "Business Performance Management", "icon": "📊"},
+            {"name": "Data Analysis", "icon":"🔍"},
+            {"name": "Financial Modelling", "icon": "📐"},
+            {"name": "Management Accounting", "icon": "🧾"},
+            {"name": "Budgeting & Forecasting", "icon": "📅"},
+            {"name": "Business Planning", "icon": "🗺️"},
+            {"name": "Risk Management", "icon":"🛡️"},
+            {"name": "Financial Reporting", "icon": "📈"},
+            {"name": "Stakeholder Management", "icon": "🤝"},
+            {"name": "Team Leadership & Coaching", "icon":"👥"}
+        ],
+
+        "Stacks": [
+            {"name": "React.js", "icon": "⚛️"},
+            {"name": "Javascript", "icon": "🟨"},
+            {"name": "Python", "icon": "🐍"},
+            {"name": "Django REST Framework", "icon": "🦄"},
+            {"name": "HTML", "icon": "🌐"},
+            {"name": "CSS", "icon": "🎨"},
+            {"name": "Git/Github", "icon": "🐙"}
+
+        ],
+
+        "Tools": [
+        {"name": "VS Code", "icon": "🖊️"},
+        {"name": "SQL", "icon": "🗄️"},
+        {"name": "Power BI", "icon": "📊"},
+        {"name": "Power Query", "icon": "🔄"},
+        {"name": "Excel & VBA Macros", "icon": "📗"},
+        {"name": "Google Sheets", "icon": "📋"},
+        {"name": "Netlify", "icon": "🚀"},
+        {"name": "Heroku", "icon": "☁️"},
+        {"name": "ERP Systems: TM1, Dynamics 365, Xero, MYOB, Navision, Pronto", "icon": "💼"}
+  ]
+    }

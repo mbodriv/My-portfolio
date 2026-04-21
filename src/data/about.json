@@ -1,0 +1,31 @@
+{
+  "name": "Maria Bodero Rivadeneira",
+  "email": "mariabodero94@gmail.com",
+  "phone": "+61-499411504",
+  "whatsapp": "https://wa.me/610499411504",
+  "subtitle": "Bridging the gap between numbers and technology",
+  "greeting": "👋 Hello!",
+  "description": "I'm a finance professional passionate about technology and innovation, driven to find smarter solutions that connect finance and the digital world.",
+  "education": "With a <a href=\"#timeline\">CGMA</a> qualification, I have a strong foundation in management accounting, financial reporting and strategic decision-making, driving me to enhance business value through <a href=\"#skills\">technology</a>.",
+  "beliefAndGoal": "I believe technology can transform the way we work with numbers. I aim to build  <a href=\"#projects\">solutions</a> that bridge financial expertise and code — making processes smarter, faster and more impactful. 🚀",
+  "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Maria Bodero\nEmail:mariabodero94@gmail.com\nTEL:+61499411504\nURL:https://www.linkedin.com/in/mariabodero/\nEND:VCARD",
+  "socialLinks": {
+    "github": {
+      "url": "https://github.com/mbodriv",
+      "title": "GitHub",
+      "strong": "Explore ",
+      "description": "my projects and code on GitHub.",
+      "image": "https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/mariabodero/",
+      "title": "LinkedIn",
+      "strong": "Join ",
+      "description": "me on LinkedIn for work connections.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png"
+    }
+  },
+  "logo": "/myportrait.jpeg",
+  "resume": "/MEB RESUME.pdf",
+  "copyright": "© 2026 Maria Bodero Rivadeneira. All Rights Reserved."
+}
