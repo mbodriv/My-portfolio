@@ -2,8 +2,7 @@
 
 Personal portfolio built with React, showcasing my background across finance, data and full-stack development.
 
-🌐 **Live site:** [your-deployed-url-here]
-
+🌐 **Live site:** https://mbrportfolio.netlify.app
 ---
 
 ## Tech Stack
