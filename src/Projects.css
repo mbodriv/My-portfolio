@@ -44,13 +44,13 @@
 }
 
 .project-info h3 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: var(--color-darkest);
   margin-bottom: 8px;
 }
 
 .project-info p {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   color: var(--color-dark);
   line-height: 1.6;
   margin-bottom: 1rem;
@@ -68,7 +68,7 @@
   color: var(--color-darkest);
   padding: 4px 10px;
   border-radius: 20px;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-weight: 500;
   font-family: var(--font-heading);
 }

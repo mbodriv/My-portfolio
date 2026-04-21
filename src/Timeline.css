@@ -51,7 +51,7 @@
   display: inline-block;
   padding: 4px 14px;
   border-radius: 20px;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-weight: 600;
   font-family: var(--font-heading);
   margin-bottom: 1rem;
@@ -92,27 +92,27 @@
 }
 
 .card-content h3 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: var(--color-darkest);
   margin-bottom: 4px;
 }
 
 .card-content h4 {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: var(--color-accent);
   font-weight: 500;
   margin-bottom: 8px;
 }
 
 .card-content p {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   color: var(--color-dark);
   line-height: 1.6;
   margin-bottom: 8px;
 }
 
 .timeline-dates {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--color-dark);
   font-weight: 500;
   opacity: 0.7;
