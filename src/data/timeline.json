@@ -9,13 +9,25 @@
     "end": "Apr, 2026",
     "id": "shecodes"
   },
+
+    {
+    "type": "Education",
+    "logo": "/logos/cima.jpg",
+    "title": "AICPA & CIMA",
+    "subtitle": "CGMA (Chartered Global Management Accountant)",
+    "description": "Global qualification focused on data-driven decision making and risk management.",
+    "start": "Jan, 2023",
+    "end": "Jan, 2025",
+    "id": "shecodes"
+    },
+
   {
     "type": "Work",
     "logo": "/logos/autoandgeneral.jpeg",
     "title": "Auto & General",
     "subtitle": "FP&A Analyst",
     "description": "Delivering annual business planning, monthly forecasting and financial analysis. Providing performance reporting and insights to senior management and stakeholders.",
-    "start": "Mar, 2025",
+    "start": "Apr, 2025",
     "end": "Present",
     "id": "auto-general"
   },
@@ -26,7 +38,7 @@
     "subtitle": "Senior Accountant / Management Accountant",
     "description": "Managed FX exposures, established a new business unit, automated financial reporting using SQL and Power Query, and standardised forecasting processes reducing variances by 30%.",
     "start": "Jul, 2023",
-    "end": "Mar, 2025"
+    "end": "Apr, 2025"
   },
   {
     "type": "Work",
