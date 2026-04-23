@@ -6,12 +6,11 @@ function Timeline() {
     const [showAll, setShowAll] = useState(false);
 
     useEffect(() => {
-        const sorted = [...timelineData].sort((a,b) => { //the ... creates a copy of the timeline array. We do this because the sort() modified the original array. A and b are two entries compared at a time.
-            const dateA = a.end === "Present" ? new Date() : new Date(a.end); //if the end date is "Present", use today's date instead, so it always sorts to the top
-            const dateB = b.end === "Present" ? new Date() : new Date(b.end);
-            return dateB - dateA;
-        });
-        setSortedData(sorted);
+//const sorted = [...timelineData].sort((a,b) => { //the ... creates a copy of the timeline array. We do this because the sort() modified the original array. A and b are two entries compared at a time.
+//const dateB = b.end === "Present" ? new Date() : new Date(b.end);
+//return dateB - dateA;
+//});
+        setSortedData(timelineData);
     }, []);
 
     const visibleItems = showAll ? sortedData : sortedData.slice(0,4);
