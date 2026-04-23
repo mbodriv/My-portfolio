@@ -17,13 +17,13 @@ const Contact =() => {
                         <MdEmail className="contact-icon email"/>
                         {aboutData.email}
                         </a>
-                    <a href={aboutData.whatsapp}
+                    {/* <a href={aboutData.whatsapp}
                     target="_blank"
                     rel="noreferrer"
                     className="contact-item">
                         <FaWhatsapp className="contact-icon whatsapp" />
                         Start a Chat!
-                    </a>
+                    </a> */}
                     <div className="contact-divider"> - Or find me on - </div>
                     <a href={aboutData.socialLinks.linkedin.url}
                     target="_blank"
